@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www":{"guestpath":"/var/www","hostpath":"/home/hanif/awan/Praktikum1/Exercise3/src","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/hanif/awan/Praktikum1/Exercise3","disabled":false,"__vagrantfile":true}}}
